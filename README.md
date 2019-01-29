@@ -49,6 +49,9 @@ It is required, for example, by network packets. The header needs integrity, but
 	EVP_CIPHER_CTX_free（ctx）; 
 	
 # 程序运行截图
+![image](https://github.com/Ruipeng-LI/Authenticated-Encryption-using-GCM/blob/master/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190129204128.png)
+# 程序示列
+可下载
 
 
 
