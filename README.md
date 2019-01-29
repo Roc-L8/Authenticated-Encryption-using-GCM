@@ -47,5 +47,8 @@ It is required, for example, by network packets. The header needs integrity, but
 
 	/ *清理* / 
 	EVP_CIPHER_CTX_free（ctx）; 
+	
+# 程序运行截图
+
 
 
